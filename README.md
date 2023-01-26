@@ -5,7 +5,11 @@ hadoop definitive guide example tutorial
 ## How to Use
 
 ```bash
+# MacOS
 ./gradlew build 
+
+# Windows
+gradlew build
 ```
 하시고 나면 `/build/libs/` 경로에 `hadoop-book.jar` 실행파일이 생깁니다. 
 
